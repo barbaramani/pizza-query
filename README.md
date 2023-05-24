@@ -1,2 +1,2 @@
-# pizza-query-
+# pizza-query
 SQL ESSENTIALS
